@@ -142,7 +142,7 @@ Mennel, Barbara. "Camp: Where Trash Meets Art." Chapter 2 in _Queer Cinema: Scho
 
 Hadleigh, Boze. "School Days: _The Children's Hour_ and _Thérèse and Isabelle_." Chapter 4 in _The Lavender Screen: The Gay and Lesbian Films: Their Stars, Makers, Characters, and Critics_. Citadel, 2001. ISBN: 9780806521992. \[Preview with [Google Books](https://books.google.com/books?id=H7u2PmlUDpwC&pg=PA34=onepage#v=onepage&q&f=false)\] 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Appendix 1: The Motion Picture Production Code (as Published 31 March, 1930)." (PDF - 1.2MB)](https://www.asu.edu/courses/fms200s/total-readings/MotionPictureProductionCode.pdf)
+["Appendix 1: The Motion Picture Production Code (as Published 31 March, 1930)." (PDF - 1.2MB)](https://www.asu.edu/courses/fms200s/total-readings/MotionPictureProductionCode.pdf)
 
 
 {{< tdclose >}}
@@ -202,7 +202,7 @@ Foote, Stephanie. "[Deviant Classics: Pulps and the Making of Lesbian Print Cul
 
 White, Patricia. "[Sketchy Lesbians: _Carol_ as History and Fantasy](https://www.jstor.org/stable/10.1525/fq.2015.69.2.8?seq=1#page_scan_tab_contents).” _Film Quarterly_ 69, no. 2 (2015): 8–18.
 
-Butler, Judith. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Critically Queer." (PDF - 1.8MB)](http://faculty.georgetown.edu/irvinem/theory/JudithButler-CriticallyQueer-1993.pdf) _GLQ_ 1, no. 1 (1993): 17–32.
+Butler, Judith. ["Critically Queer." (PDF - 1.8MB)](http://faculty.georgetown.edu/irvinem/theory/JudithButler-CriticallyQueer-1993.pdf) _GLQ_ 1, no. 1 (1993): 17–32.
 
 Hilton-Morrow, Wendy, and Kathleen Battles. Excerpt from _Sexual Identities and the Media: An Introduction_. Routledge, 2015. ISBN: 9780415532976. \[Preview with [Google Books](https://books.google.com/books?id=EwbwBgAAQBAJ&pg=PAfrontcover#v=onepage&q&f=false)\]
 
